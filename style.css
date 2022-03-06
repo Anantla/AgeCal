@@ -1,0 +1,48 @@
+*{
+    padding: 10px;
+    margin: 10px;
+}
+
+body{
+    background-color: rgb(105, 173, 190);
+}
+.container{
+   
+    background-image: linear-gradient(to right,rgb(255, 0, 149),rgb(98, 0, 255));
+    display: flex;
+    border-radius: 50px;
+}
+.enter{
+    
+}
+.flex{
+    display: flex;
+}
+
+h1{
+text-align: center;
+}
+#date{
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+}
+#month{
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+}
+#year{
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
+.btn{
+    
+    border-radius: 10px;
+    text-align: center;
+
+}
